@@ -1,0 +1,2 @@
+Console.Write("\nIngrese el número: ");
+int num = int.Parse(Console.ReadLine());

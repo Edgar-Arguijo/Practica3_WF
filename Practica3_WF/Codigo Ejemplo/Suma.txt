@@ -1,0 +1,4 @@
+string num1 = "10";
+int num2 = 5;
+
+int resultado = int.Parse(num1) + num2;

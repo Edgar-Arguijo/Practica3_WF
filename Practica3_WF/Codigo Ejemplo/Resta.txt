@@ -1,0 +1,2 @@
+int numero = 10;
+numero--;
